@@ -9,7 +9,7 @@ using namespace std;
 
 int main()
 {
-	OpenBitString b1, b2;
+	OpenBitString b1;
 	try {
 		cin >> b1;
 		cout << endl;

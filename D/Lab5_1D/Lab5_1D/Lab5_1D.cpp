@@ -6,7 +6,7 @@ using namespace std;
 
 int main()
 {
-	BitString b1, b2;
+	BitString b1;
 	try {
 		cin >> b1;
 		cout << endl;

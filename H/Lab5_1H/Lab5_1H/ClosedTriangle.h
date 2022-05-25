@@ -1,5 +1,6 @@
 #pragma once
 #include "Point.h"
+#include "Exception.h"
 #include "TriangleException.h"
 class ClosedTriangle :
     private Point
